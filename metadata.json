@@ -1,0 +1,6 @@
+{
+  "name": "CronoInd - Cronometragem & Análise de Produção",
+  "description": "Sistema industrial de cronoanálise, conversão sexagesimal/centesimal, tabela Westinghouse, cálculo de postos de trabalho e balanceamento de linhas de produção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
